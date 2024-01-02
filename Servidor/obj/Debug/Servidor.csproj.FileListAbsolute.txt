@@ -1,0 +1,5 @@
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor\bin\Debug\Servidor.exe
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor\bin\Debug\Servidor.pdb
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor\obj\Debug\Servidor.exe
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor\obj\Debug\Servidor.pdb

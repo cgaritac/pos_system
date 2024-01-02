@@ -1,0 +1,40 @@
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\bin\Debug\Servidor_ElBuenPrecio.exe
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\bin\Debug\Servidor_ElBuenPrecio.pdb
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.csprojAssemblyReference.cache
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.Properties.Resources.resources
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.csproj.GenerateResource.cache
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.csproj.CoreCompileInputs.cache
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.exe
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.pdb
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.MostrarCajeros.resources
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.MostrarCategorias.resources
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.MostrarProductos.resources
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.MostrarVentas.resources
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.frmServidor.resources
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\bin\Debug\Entidades.exe
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\bin\Debug\Entidades.pdb
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.csproj.CopyComplete
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\bin\Debug\Datos.exe
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\bin\Debug\Datos.pdb
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\bin\Debug\Servidor_ElBuenPrecio.exe
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\bin\Debug\Servidor_ElBuenPrecio.pdb
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\bin\Debug\Datos.exe
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\bin\Debug\Entidades.exe
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\bin\Debug\Datos.pdb
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\bin\Debug\Entidades.pdb
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.csproj.AssemblyReference.cache
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.MostrarCajeros.resources
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.MostrarCategorias.resources
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.MostrarProductos.resources
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.MostrarVentas.resources
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.frmServidor.resources
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.Properties.Resources.resources
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.csproj.GenerateResource.cache
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.csproj.CoreCompileInputs.cache
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.csproj.CopyComplete
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.exe
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Servidor_ElBuenPrecio\obj\Debug\Servidor_ElBuenPrecio.pdb

@@ -1,0 +1,18 @@
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Entidades\bin\Debug\Entidades.exe
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Entidades\bin\Debug\Entidades.pdb
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Entidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Entidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Entidades\obj\Debug\Entidades.exe
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Entidades\obj\Debug\Entidades.pdb
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Entidades\bin\Debug\Entidades.exe
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Entidades\bin\Debug\Entidades.pdb
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Entidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Entidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Entidades\obj\Debug\Entidades.exe
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Entidades\obj\Debug\Entidades.pdb

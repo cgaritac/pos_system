@@ -1,0 +1,18 @@
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Datos\bin\Debug\Datos.exe
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Datos\bin\Debug\Datos.pdb
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Datos\bin\Debug\Entidades.exe
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Datos\bin\Debug\Entidades.pdb
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Datos\obj\Debug\Datos.exe
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Datos\obj\Debug\Datos.pdb
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Datos\bin\Debug\Datos.exe
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Datos\bin\Debug\Datos.pdb
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Datos\bin\Debug\Entidades.exe
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Datos\bin\Debug\Entidades.pdb
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Datos\obj\Debug\Datos.exe
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Datos\obj\Debug\Datos.pdb

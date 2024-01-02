@@ -1,0 +1,40 @@
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Inicio\bin\Debug\Inicio.exe
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Inicio\bin\Debug\Inicio.pdb
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Inicio\bin\Debug\Cliente.exe
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Inicio\bin\Debug\Servidor_ElBuenPrecio.exe
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Inicio\bin\Debug\Cliente.pdb
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Inicio\bin\Debug\Servidor_ElBuenPrecio.pdb
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Inicio\obj\Debug\Inicio.csprojAssemblyReference.cache
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Inicio\obj\Debug\Inicio.frmInicio.resources
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Inicio\obj\Debug\Inicio.Properties.Resources.resources
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Inicio\obj\Debug\Inicio.csproj.GenerateResource.cache
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Inicio\obj\Debug\Inicio.csproj.CoreCompileInputs.cache
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Inicio\obj\Debug\Inicio.csproj.CopyComplete
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Inicio\obj\Debug\Inicio.exe
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Inicio\obj\Debug\Inicio.pdb
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Inicio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Inicio\bin\Debug\Entidades.exe
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Inicio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Inicio\bin\Debug\Entidades.pdb
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Inicio\bin\Debug\Datos.exe
+C:\Users\cgari\Desktop\Proyecto_CarlosGarita\Inicio\bin\Debug\Datos.pdb
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Inicio\bin\Debug\Inicio.exe
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Inicio\bin\Debug\Inicio.pdb
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Inicio\bin\Debug\Cliente.exe
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Inicio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Inicio\bin\Debug\Servidor_ElBuenPrecio.exe
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Inicio\bin\Debug\Entidades.exe
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Inicio\bin\Debug\Datos.exe
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Inicio\bin\Debug\Cliente.pdb
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Inicio\bin\Debug\Servidor_ElBuenPrecio.pdb
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Inicio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Inicio\bin\Debug\Entidades.pdb
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Inicio\bin\Debug\Datos.pdb
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Inicio\obj\Debug\Inicio.csproj.AssemblyReference.cache
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Inicio\obj\Debug\Inicio.frmInicio.resources
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Inicio\obj\Debug\Inicio.Properties.Resources.resources
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Inicio\obj\Debug\Inicio.csproj.GenerateResource.cache
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Inicio\obj\Debug\Inicio.csproj.CoreCompileInputs.cache
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Inicio\obj\Debug\Inicio.csproj.CopyComplete
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Inicio\obj\Debug\Inicio.exe
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Proyecto_CarlosGarita\Inicio\obj\Debug\Inicio.pdb
